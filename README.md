@@ -63,7 +63,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=firjaabiyu&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="205" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=firjaabiyu&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="205" alt="languages graph"  />
 </div>
