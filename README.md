@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">A high school student messing around with code and trying to figure out Node.js. Still learning, but loving the process. Got a big interest in Software Engineering and always curious about how things work behind the scenes.</p>
+<p align="left">A high school student messing around with code and trying to figure out why his code works… or doesn’t. Still learning, but loving the process. Got a big interest in Software Engineering and always curious about how things work behind the scenes.</p>
 
 ###
 
