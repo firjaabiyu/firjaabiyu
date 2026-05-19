@@ -12,9 +12,6 @@
   <a href="https://www.linkedin.com/in/firjaabiyu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="20" alt="linkedin logo"  />
   </a>
-  <a href="mailto:firjaabiyu@gmail.com?subject=Hello&body=Lets%20colaborate!%0A%0ALooking%20forward%20to%20your%20response." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="20" alt="gmail logo"  />
-  </a>
 </div>
 
 ###
